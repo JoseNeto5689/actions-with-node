@@ -7,3 +7,7 @@ test("Soma de numeros", () => {
 test("Soma de numeros negativos", () => {
     expect(sum(-1, -1)).toBe(-2)
 })
+
+test("Soma de numeros negativos", () => {
+    expect(sum(-1, -1)).toBe(-2)
+})
